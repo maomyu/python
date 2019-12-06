@@ -1,11 +1,4 @@
-'''
-@Author: your name
-@Date: 2019-11-27 18:42:17
-@LastEditTime: 2019-11-27 18:55:30
-@LastEditors: Please set LastEditors
-@Description: In User Settings Edit
-@FilePath: \GoWebf:\python\day03\day030.py
-'''
+
 # 字典
 names = {'Michael': 95, 'Bob': 75, 'Tracy': 85}
 # 不存在的键会报错

@@ -1,11 +1,3 @@
-'''
-@Author: your name
-@Date: 2019-11-25 21:45:16
-@LastEditTime: 2019-11-25 21:55:55
-@LastEditors: Please set LastEditors
-@Description: In User Settings Edit
-@FilePath: \GoWebf:\python\day02\demo1.py
-'''
 # 列表
 classmates = ['Michael', 'Bob', 'Tracy']
 print(classmates)

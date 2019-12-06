@@ -1,11 +1,3 @@
-'''
-@Author: your name
-@Date: 2019-11-27 18:32:27
-@LastEditTime: 2019-11-27 18:41:24
-@LastEditors: Please set LastEditors
-@Description: In User Settings Edit
-@FilePath: \GoWebf:\python\day03\day03.py
-'''
 age = 20
 if age >=18:
     print('your age is',age)

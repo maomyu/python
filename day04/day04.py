@@ -1,11 +1,3 @@
-'''
-@Author: your name
-@Date: 2019-11-27 18:59:07
-@LastEditTime: 2019-12-01 12:24:11
-@LastEditors: Please set LastEditors
-@Description: In User Settings Edit
-@FilePath: \GoWebf:\python\day04\day04.py
-'''
 def my_abs(x):
     if x >= 0:
         return x

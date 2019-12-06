@@ -1,11 +1,3 @@
-'''
-@Author: your name
-@Date: 2019-11-24 21:37:23
-@LastEditTime: 2019-11-24 21:51:04
-@LastEditors: Please set LastEditors
-@Description: In User Settings Edit
-@FilePath: \GoWebf:\python\day01\demo1.py
-'''
 print('hello')
 print('I\'m \"OK\"')
 print('I\'m learning\nPython.')
