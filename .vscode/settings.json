@@ -1,3 +1,5 @@
 {
-    "go.inferGopath": false
+    "go.inferGopath": false,
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "python.formatting.provider": "autopep8"
 }
