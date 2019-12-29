@@ -14,3 +14,5 @@ def lazy_sum(*args):
     return sum
 f = lazy_sum(1,3,5,7,9)
 print(f())
+
+
