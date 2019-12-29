@@ -6,4 +6,4 @@ print(sorted([23,1,23,4,2,34,2,4,-3],key=abs))
 # 如字符串排列忽略daxiaox
 print(sorted(['bot',"about","Zoo","Credit"],key=str.lower))
 
-print(sorted(['bot',"about","zoo","credit"],key=str.lower))
+print(sorted(['bot',"about","znnnoo","credit"],key=str.lower))
